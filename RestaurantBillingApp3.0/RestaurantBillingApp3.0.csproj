@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>RestaurantBillingApp3._0</RootNamespace>
   </PropertyGroup>
 
 </Project>

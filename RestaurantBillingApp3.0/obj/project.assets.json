@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nitish\\Downloads\\drive-download-20200428T182036Z-001\\GS_RestaurantBillingApp\\GS_RestaurantBillingApp\\GS_RestaurantBillingApp.csproj",
-      "projectName": "GS_RestaurantBillingApp",
-      "projectPath": "C:\\Users\\nitish\\Downloads\\drive-download-20200428T182036Z-001\\GS_RestaurantBillingApp\\GS_RestaurantBillingApp\\GS_RestaurantBillingApp.csproj",
+      "projectUniqueName": "C:\\Users\\nitish\\Downloads\\drive-download-20200428T182036Z-001\\RestaurantBillingApp3.0\\RestaurantBillingApp3.0\\RestaurantBillingApp3.0.csproj",
+      "projectName": "RestaurantBillingApp3.0",
+      "projectPath": "C:\\Users\\nitish\\Downloads\\drive-download-20200428T182036Z-001\\RestaurantBillingApp3.0\\RestaurantBillingApp3.0\\RestaurantBillingApp3.0.csproj",
       "packagesPath": "C:\\Users\\nitish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nitish\\Downloads\\drive-download-20200428T182036Z-001\\GS_RestaurantBillingApp\\GS_RestaurantBillingApp\\obj\\",
+      "outputPath": "C:\\Users\\nitish\\Downloads\\drive-download-20200428T182036Z-001\\RestaurantBillingApp3.0\\RestaurantBillingApp3.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nitish\\AppData\\Roaming\\NuGet\\NuGet.Config",
